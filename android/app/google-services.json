@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892218212037",
+    "project_id": "hezranbotak-77",
+    "storage_bucket": "hezranbotak-77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892218212037:android:978533d2a09060ee923aac",
+        "android_client_info": {
+          "package_name": "com.hezran.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWKF3b6M9KuIlDy6aCkLeOtWLS_70YOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892218212037:android:f6dd0d556a48462f923aac",
+        "android_client_info": {
+          "package_name": "com.zran.a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWKF3b6M9KuIlDy6aCkLeOtWLS_70YOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
